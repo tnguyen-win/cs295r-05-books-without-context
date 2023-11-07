@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "id": 1
+    },
+    {
+      "title": "Hermione Granger",
+      "id": 2
+    },
+    {
+      "title": "Ron Weasley",
+      "id": 3
+    }
+  ]
+}
